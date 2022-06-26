@@ -1,0 +1,8 @@
+0 Apples
+1 Bananas
+2 Lemon
+3 Carrot
+4 Potato
+5 Mint
+6 Mangoes
+7 Nothing

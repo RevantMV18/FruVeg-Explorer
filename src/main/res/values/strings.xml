@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FruVeg Search</string>
+    <string name="predict">predict</string>
+    <string name="camera">Camera</string>
+</resources>
